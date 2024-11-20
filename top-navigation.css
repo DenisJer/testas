@@ -1,7 +1,7 @@
 :root {
-    --primary-color: red;
-    --menu-item-border-color: yellow;
-    --contact-btn-color: orange;
+    --primary-color: #ff6a3e;
+    --menu-item-border-color: var(--primary-color);
+    --contact-btn-color: var(--primary-color);
     --contactact-btn-border-height: 2px;
     --gap: 16px;
 }
